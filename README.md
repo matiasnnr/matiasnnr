@@ -52,7 +52,7 @@
 
 <p align="center">
 <a href="https://matiasnnr.com/"><img alt="Website" src="https://img.shields.io/badge/Website-wwwmatiasnnr.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/matiasnnr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Matías%Núñez%20Rivas-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/matiasnnr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Matías%20Núñez%20Rivas-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/matiasnnr/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-matiasnnr-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:matias.nnr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-matias.nnr@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
