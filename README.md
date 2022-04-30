@@ -19,7 +19,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-333333?style=flat&logo=tailwind-css)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=DA0093)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next JS](https://img.shields.io/badge/Next-333333?style=flat&logo=next.js)
 - 🛢 &nbsp;
@@ -36,9 +36,9 @@
   ![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=postman)
 - ☁️ &nbsp;
   ![Vercel](https://img.shields.io/badge/vercel-333333?style=flat&logo=vercel)
-  ![Datadog](https://img.shields.io/badge/datadog-333333?style=flat&logo=datadog)
+  ![Datadog](https://img.shields.io/badge/datadog-333333?style=flat&logo=datadog&logoColor=662BAB)
   ![Google Cloud](https://img.shields.io/badge/GoogleCloud-333333?style=flat&logo=google-cloud)
-  ![AWS](https://img.shields.io/badge/AWS-333333?style=flat&logo=amazon-aws)
+  ![AWS](https://img.shields.io/badge/AWS-333333?style=flat&logo=amazon-aws&logoColor=F7940F)
 
 <br/>
 
