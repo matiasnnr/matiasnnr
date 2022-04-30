@@ -1,12 +1,12 @@
 <h2> Hey there! I'm Matías</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3>👨🏻‍💻 About me</h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as a Full Stack Developer at Tata Consultancy Services.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Blockchain and Web Development.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -48,8 +48,9 @@
 
 <br/>
 
+<h3>👉🏼 Connect with me</h3>
+
 <p align="center">
-  
 <a href="https://matiasnnr.com/"><img alt="Website" src="https://img.shields.io/badge/Website-wwwmatiasnnr.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/matiasnnr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Matías%20Núñez%20Rivas-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/matiasnnr/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-matiasnnr-blue?style=flat-square&logo=instagram"></a>
