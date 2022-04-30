@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as a Full Stack Developer at Tata Consultancy Services.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Blockchain and Web Development.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Information Security and Web Development.
 
 <h3>🛠 Tech Stack</h3>
 
